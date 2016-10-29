@@ -1,0 +1,8 @@
+if you are unable to detect the wifi signal in ubuntu 16.04 
+follow the steps below:
+
+1. open run command
+2. type su 
+3. type your password
+4. type : restart service network-manager
+5. after that you will see that your wifi network will work properly.
